@@ -1,6 +1,6 @@
 # npmtest-npm-scripts-watcher
 
-#### test coverage for  [npm-scripts-watcher (v1.0.2)](https://github.com/wehkamp/npm-scripts-watcher#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-scripts-watcher.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-scripts-watcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-scripts-watcher.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-scripts-watcher)
+#### basic test coverage for  [npm-scripts-watcher (v1.0.2)](https://github.com/wehkamp/npm-scripts-watcher#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-scripts-watcher.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-scripts-watcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-scripts-watcher.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-scripts-watcher)
 
 #### Globbing file watcher to automatically run npm scripts from package.json when files change, with pretty colors.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-scripts-watcher/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-scripts-watcher/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-npm-scripts-watcher/build/coverage.html/index.html)
 
